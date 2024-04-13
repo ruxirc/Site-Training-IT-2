@@ -1,0 +1,44 @@
+.img-thumbnail {
+  width: 100%;
+  padding: 2%;
+}
+
+@font-face {
+  font-family: "Boomster";
+  src: url("BOOMSTER.otf") format("opentype");
+}
+
+h1 {
+  font-family: "Boomster";
+  font-size: 5em;
+  margin-left: 8%;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  margin-left: 4%;
+  margin-bottom: 4%;
+}
+div {
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+hr {
+  color: blue;
+  height: 20px;
+}
+
+.contacts p {
+  margin: 0;
+}
+
+.contacts {
+  margin-bottom: 10px;
+}
+.poza {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+}
